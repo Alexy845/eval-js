@@ -1,0 +1,14 @@
+{
+  "name": "js-test",
+  "version": "1.0.0",
+  "description": "repo to test your js code",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
