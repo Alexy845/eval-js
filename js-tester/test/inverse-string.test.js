@@ -1,4 +1,4 @@
-const inverseString = require("../inverse-sring");
+const inverseString = require("../inverse-string");
 
 describe("inverse string test", () => {
   test("should return '' when string passed is ''", () => {
